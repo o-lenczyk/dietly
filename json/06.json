@@ -1,0 +1,502 @@
+{
+    "menuVisible": "VISIBLE",
+    "deliveryMenuMeal": [
+        {
+            "deliveryMealId": 4148565,
+            "amount": 1,
+            "mealName": "Śniadanie",
+            "mealPriority": 1,
+            "menuMealId": 2185943,
+            "menuMealName": "Placki twarogowe z dżemem wiśniowym i pieczonym jabłkiem",
+            "thermo": "COLD",
+            "dietCaloriesMealId": 1422,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 432.0,
+                "calories": 468.0,
+                "fat": 11.0,
+                "protein": 36.95,
+                "carbohydrate": 54.52,
+                "dietaryFiber": 5.27,
+                "sugar": 41.46,
+                "salt": 1.01,
+                "saturatedFattyAcids": 2.98,
+                "caloriesText": "468 kcal / 1959 kJ"
+            },
+            "allergens": [
+                "Mleko",
+                "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "Jaja",
+                "Orzechy"
+            ],
+            "ingredients": [
+                {
+                    "name": "Twaróg chudy",
+                    "major": false
+                },
+                {
+                    "name": "Jabłko",
+                    "major": false
+                },
+                {
+                    "name": "Wiśnie bez pestek, mrożone (nowe)",
+                    "major": false
+                },
+                {
+                    "name": "Jaja kurze (całe)",
+                    "major": false
+                },
+                {
+                    "name": "Mąka pszenna (typ 500)",
+                    "major": false
+                },
+                {
+                    "name": "Cukier",
+                    "major": false
+                },
+                {
+                    "name": "Miód pszczeli",
+                    "major": false
+                },
+                {
+                    "name": "Migdały w płatkach",
+                    "major": false
+                },
+                {
+                    "name": "Pektyna cytrynowo- jabłkowa (Orzechy, Sezam, Zboża zawierające gluten)",
+                    "major": true
+                },
+                {
+                    "name": "Cukier wanilinowy",
+                    "major": false
+                },
+                {
+                    "name": "Kwasek cytrynowy",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                },
+                {
+                    "name": "Proszek do pieczenia",
+                    "major": false
+                },
+                {
+                    "name": "Cynamon",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148568,
+            "amount": 1,
+            "mealName": "II śniadanie",
+            "mealPriority": 2,
+            "menuMealId": 2185945,
+            "menuMealName": "Zupa krem z dyni i batatów",
+            "thermo": "WARM",
+            "dietCaloriesMealId": 1428,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 433.0,
+                "calories": 145.0,
+                "fat": 4.94,
+                "protein": 3.99,
+                "carbohydrate": 19.01,
+                "dietaryFiber": 8.02,
+                "sugar": 5.91,
+                "salt": 0.21,
+                "saturatedFattyAcids": 2.78,
+                "caloriesText": "145 kcal / 607 kJ"
+            },
+            "allergens": [
+                "Mleko",
+                "Seler"
+            ],
+            "ingredients": [
+                {
+                    "name": "Bulion warzywny (domowy)",
+                    "major": false
+                },
+                {
+                    "name": "Dynia mrożona kostka",
+                    "major": false
+                },
+                {
+                    "name": "Bataty",
+                    "major": false
+                },
+                {
+                    "name": "Pietruszka kostka",
+                    "major": false
+                },
+                {
+                    "name": "Śmietanka 31%",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Kmin rzymski (kumin)",
+                    "major": false
+                },
+                {
+                    "name": "Mielona słodka papryka",
+                    "major": false
+                },
+                {
+                    "name": "Imbir mielony",
+                    "major": false
+                },
+                {
+                    "name": "Chili płatki",
+                    "major": false
+                },
+                {
+                    "name": "Mielona gałka muszkatołowa",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148564,
+            "amount": 1,
+            "mealName": "Obiad",
+            "mealPriority": 3,
+            "menuMealId": 2185947,
+            "menuMealName": "Kotlety sojowe a'la schabowe w sosie pieczeniowym z ziemniakami oraz surówką po żydowsku",
+            "thermo": "WARM",
+            "dietCaloriesMealId": 1434,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 1264.0,
+                "calories": 664.0,
+                "fat": 22.3,
+                "protein": 31.17,
+                "carbohydrate": 73.78,
+                "dietaryFiber": 21.42,
+                "sugar": 12.45,
+                "salt": 2.08,
+                "saturatedFattyAcids": 3.65,
+                "caloriesText": "664 kcal / 2780 kJ"
+            },
+            "allergens": [
+                "Soja",
+                "Seler",
+                "Gorczyca",
+                "Jaja"
+            ],
+            "ingredients": [
+                {
+                    "name": "Bulion warzywny (domowy)",
+                    "major": false
+                },
+                {
+                    "name": "Ziemniaki obrane",
+                    "major": false
+                },
+                {
+                    "name": "Jaja kurze (całe)",
+                    "major": false
+                },
+                {
+                    "name": "Kapusta biała szat.",
+                    "major": false
+                },
+                {
+                    "name": "Kotlety sojowe",
+                    "major": false
+                },
+                {
+                    "name": "Cebula cięta",
+                    "major": false
+                },
+                {
+                    "name": "Marchew wiórki",
+                    "major": false
+                },
+                {
+                    "name": "Seler naciowy",
+                    "major": false
+                },
+                {
+                    "name": "Panier z ciecierzycy",
+                    "major": false
+                },
+                {
+                    "name": "Papryka czerwona (konserwowa).",
+                    "major": false
+                },
+                {
+                    "name": "Ogórki kiszone.",
+                    "major": false
+                },
+                {
+                    "name": "Ogórek zielony.",
+                    "major": false
+                },
+                {
+                    "name": "Pietruszka wiórki",
+                    "major": false
+                },
+                {
+                    "name": "Marchew wiórki.",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy.",
+                    "major": false
+                },
+                {
+                    "name": "Koncentrat pomidorowy (30%)",
+                    "major": false
+                },
+                {
+                    "name": "Olej słonecznikowy Rama",
+                    "major": false
+                },
+                {
+                    "name": "Sos sojowy ciemny",
+                    "major": false
+                },
+                {
+                    "name": "Rukola",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Oliwa z oliwek",
+                    "major": false
+                },
+                {
+                    "name": "Cukier.",
+                    "major": false
+                },
+                {
+                    "name": "Miso pasta jasna",
+                    "major": false
+                },
+                {
+                    "name": "Czosnek",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny ziarnisty",
+                    "major": false
+                },
+                {
+                    "name": "Rozmaryn (świeży)",
+                    "major": false
+                },
+                {
+                    "name": "Ocet winny",
+                    "major": false
+                },
+                {
+                    "name": "Sól morska",
+                    "major": false
+                },
+                {
+                    "name": "Grzyby suszone",
+                    "major": false
+                },
+                {
+                    "name": "Liść laurowy",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Sól himalajska",
+                    "major": false
+                },
+                {
+                    "name": "Ziele angielskie",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148567,
+            "amount": 1,
+            "mealName": "Podwieczorek",
+            "mealPriority": 4,
+            "menuMealId": 2185944,
+            "menuMealName": "Ciasto jogurtowe z kruszonką ",
+            "thermo": "COLD",
+            "dietCaloriesMealId": 1435,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 113.0,
+                "calories": 308.0,
+                "fat": 11.5,
+                "protein": 5.79,
+                "carbohydrate": 44.69,
+                "dietaryFiber": 0.77,
+                "sugar": 21.07,
+                "salt": 0.28,
+                "saturatedFattyAcids": 3.56,
+                "caloriesText": "308 kcal / 1290 kJ"
+            },
+            "allergens": [
+                "Mleko",
+                "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "Jaja"
+            ],
+            "ingredients": [
+                {
+                    "name": "Mąka pszenna (typ 500)",
+                    "major": false
+                },
+                {
+                    "name": "Jogurt grecki 3%",
+                    "major": false
+                },
+                {
+                    "name": "Owoce jagodowe mrożone (nowe)",
+                    "major": false
+                },
+                {
+                    "name": "Cukier puder",
+                    "major": false
+                },
+                {
+                    "name": "Jaja kurze (całe)",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Cukier",
+                    "major": false
+                },
+                {
+                    "name": "Masło extra",
+                    "major": false
+                },
+                {
+                    "name": "Proszek do pieczenia",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148566,
+            "amount": 1,
+            "mealName": "Kolacja",
+            "mealPriority": 5,
+            "menuMealId": 2185946,
+            "menuMealName": "Buraczana kasza bulgur z fetą",
+            "thermo": "COLD_WARM",
+            "dietCaloriesMealId": 1442,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 345.0,
+                "calories": 418.0,
+                "fat": 12.39,
+                "protein": 16.78,
+                "carbohydrate": 58.77,
+                "dietaryFiber": 19.06,
+                "sugar": 12.5,
+                "salt": 1.92,
+                "saturatedFattyAcids": 4.04,
+                "caloriesText": "418 kcal / 1750 kJ"
+            },
+            "allergens": [
+                "Mleko",
+                "Seler",
+                "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies"
+            ],
+            "ingredients": [
+                {
+                    "name": "Burak kostka ugotowany",
+                    "major": false
+                },
+                {
+                    "name": "Kasza bulgur",
+                    "major": false
+                },
+                {
+                    "name": "Bulion warzywny (domowy)",
+                    "major": false
+                },
+                {
+                    "name": "Ser feta",
+                    "major": false
+                },
+                {
+                    "name": "Cebula cięta",
+                    "major": false
+                },
+                {
+                    "name": "Margaryna Planta",
+                    "major": false
+                },
+                {
+                    "name": "Szpinak baby",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Czosnek",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                },
+                {
+                    "name": "Oregano (suszone)",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        }
+    ],
+    "possibleSideOrders": []
+}

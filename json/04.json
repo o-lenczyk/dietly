@@ -1,0 +1,503 @@
+{
+    "menuVisible": "VISIBLE",
+    "deliveryMenuMeal": [
+        {
+            "deliveryMealId": 4148619,
+            "amount": 1,
+            "mealName": "Śniadanie",
+            "mealPriority": 1,
+            "menuMealId": 2185885,
+            "menuMealName": "Naleśniki nadziane twarożkiem z wiśniami i mascarpone z sałatką owocową",
+            "thermo": "COLD",
+            "dietCaloriesMealId": 1422,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 361.0,
+                "calories": 505.0,
+                "fat": 21.13,
+                "protein": 15.12,
+                "carbohydrate": 65.0,
+                "dietaryFiber": 3.34,
+                "sugar": 28.53,
+                "salt": 0.63,
+                "saturatedFattyAcids": 9.17,
+                "caloriesText": "505 kcal / 2114 kJ"
+            },
+            "allergens": [
+                "Mleko"
+            ],
+            "ingredients": [
+                {
+                    "name": "Naleśniki (Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies, Jaja, Mleko)",
+                    "major": true
+                },
+                {
+                    "name": "Twaróg (president) 4%",
+                    "major": false
+                },
+                {
+                    "name": "Wiśnie bez pestek, mrożone (nowe)",
+                    "major": false
+                },
+                {
+                    "name": "Jabłko",
+                    "major": false
+                },
+                {
+                    "name": "Gruszka",
+                    "major": false
+                },
+                {
+                    "name": "Pomarańcza filet",
+                    "major": false
+                },
+                {
+                    "name": "Śliwki",
+                    "major": false
+                },
+                {
+                    "name": "Serek mascarpone",
+                    "major": false
+                },
+                {
+                    "name": "Sok pomarańczowy",
+                    "major": false
+                },
+                {
+                    "name": "Cukier",
+                    "major": false
+                },
+                {
+                    "name": "Wiórki kokosowe",
+                    "major": false
+                },
+                {
+                    "name": "Sok z cytryny",
+                    "major": false
+                },
+                {
+                    "name": "Ekstrakt waniliowy (pasta)",
+                    "major": false
+                },
+                {
+                    "name": "Mięta (świeża)",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148620,
+            "amount": 1,
+            "mealName": "II śniadanie",
+            "mealPriority": 2,
+            "menuMealId": 2185887,
+            "menuMealName": "Ciasto budyniowiec z brzoskwinią ",
+            "thermo": "COLD",
+            "dietCaloriesMealId": 1428,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 117.0,
+                "calories": 281.0,
+                "fat": 9.83,
+                "protein": 6.9,
+                "carbohydrate": 41.26,
+                "dietaryFiber": 0.75,
+                "sugar": 38.62,
+                "salt": 0.54,
+                "saturatedFattyAcids": 2.97,
+                "caloriesText": "281 kcal / 1176 kJ"
+            },
+            "allergens": [
+                "Mleko",
+                "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "Jaja"
+            ],
+            "ingredients": [
+                {
+                    "name": "Jaja kurze (całe).",
+                    "major": false
+                },
+                {
+                    "name": "Cukier.",
+                    "major": false
+                },
+                {
+                    "name": "Woda",
+                    "major": false
+                },
+                {
+                    "name": "Margaryna Palma.",
+                    "major": false
+                },
+                {
+                    "name": "Mleko spożywcze (2% tł.).",
+                    "major": false
+                },
+                {
+                    "name": "Kasza manna.",
+                    "major": false
+                },
+                {
+                    "name": "Mąka pszenna.",
+                    "major": false
+                },
+                {
+                    "name": "Proszek do pieczenia.",
+                    "major": false
+                },
+                {
+                    "name": "Brzoskwinia.",
+                    "major": false
+                },
+                {
+                    "name": "Cynamon.",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148622,
+            "amount": 1,
+            "mealName": "Obiad",
+            "mealPriority": 3,
+            "menuMealId": 2185886,
+            "menuMealName": "Cukinia faszerowana wegańskim mielonym i ryżem z salsą pomidorową i surówką z kalarepy",
+            "thermo": "WARM",
+            "dietCaloriesMealId": 1434,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 811.0,
+                "calories": 597.0,
+                "fat": 25.08,
+                "protein": 25.77,
+                "carbohydrate": 58.17,
+                "dietaryFiber": 17.82,
+                "sugar": 18.89,
+                "salt": 3.91,
+                "saturatedFattyAcids": 1.69,
+                "caloriesText": "597 kcal / 2500 kJ"
+            },
+            "allergens": [
+                ""
+            ],
+            "ingredients": [
+                {
+                    "name": "Cukinia drążona do faszerowania",
+                    "major": false
+                },
+                {
+                    "name": "Passata pomidorowa (przecier)",
+                    "major": false
+                },
+                {
+                    "name": "Kalarepa",
+                    "major": false
+                },
+                {
+                    "name": "Wegańskie Mielone",
+                    "major": false
+                },
+                {
+                    "name": "Marchew wiórki",
+                    "major": false
+                },
+                {
+                    "name": "Pieczarki cięte myte",
+                    "major": false
+                },
+                {
+                    "name": "Cebula cięta",
+                    "major": false
+                },
+                {
+                    "name": "Ser wegański o smaku mozzarelli tarty Violife",
+                    "major": false
+                },
+                {
+                    "name": "Ryż biały (parboiled)",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Natka pietruszki",
+                    "major": false
+                },
+                {
+                    "name": "Szczypiorek",
+                    "major": false
+                },
+                {
+                    "name": "Oliwa z oliwek",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                },
+                {
+                    "name": "Czosnek",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Rukola",
+                    "major": false
+                },
+                {
+                    "name": "Sok z cytryny",
+                    "major": false
+                },
+                {
+                    "name": "Mielona słodka papryka",
+                    "major": false
+                },
+                {
+                    "name": "Papryka słodka (mielona, wędzona)",
+                    "major": false
+                },
+                {
+                    "name": "Cukier",
+                    "major": false
+                },
+                {
+                    "name": "Ocet winny",
+                    "major": false
+                },
+                {
+                    "name": "Kolendra (suszone liście)",
+                    "major": false
+                },
+                {
+                    "name": "Mielona papryka chili",
+                    "major": false
+                },
+                {
+                    "name": "Czosnek granulowany",
+                    "major": false
+                },
+                {
+                    "name": "Papryczka ostra (chili)",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148623,
+            "amount": 1,
+            "mealName": "Podwieczorek",
+            "mealPriority": 4,
+            "menuMealId": 2185883,
+            "menuMealName": "Kapuśniak zbójnicki",
+            "thermo": "WARM",
+            "dietCaloriesMealId": 1435,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 433.0,
+                "calories": 135.0,
+                "fat": 2.74,
+                "protein": 6.47,
+                "carbohydrate": 18.96,
+                "dietaryFiber": 7.37,
+                "sugar": 3.08,
+                "salt": 0.39,
+                "saturatedFattyAcids": 0.52,
+                "caloriesText": "135 kcal / 565 kJ"
+            },
+            "allergens": [
+                "Soja",
+                "Seler"
+            ],
+            "ingredients": [
+                {
+                    "name": "Bulion warzywny (domowy)",
+                    "major": false
+                },
+                {
+                    "name": "Kapusta biała szatkowana",
+                    "major": false
+                },
+                {
+                    "name": "Ziemniaki kostka",
+                    "major": false
+                },
+                {
+                    "name": "Włoszczyzna mrożona julienne (nowe)",
+                    "major": false
+                },
+                {
+                    "name": "Cebula cięta",
+                    "major": false
+                },
+                {
+                    "name": "Koncentrat pomidorowy (30%)",
+                    "major": false
+                },
+                {
+                    "name": "Soczewica czerwona",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Mielona słodka papryka",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Sos sojowy jasny",
+                    "major": false
+                },
+                {
+                    "name": "Koper ogrodowy",
+                    "major": false
+                },
+                {
+                    "name": "Sok z cytryny",
+                    "major": false
+                },
+                {
+                    "name": "Mielona papryka chili",
+                    "major": false
+                },
+                {
+                    "name": "Sól himalajska",
+                    "major": false
+                },
+                {
+                    "name": "Ziele angielskie",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148621,
+            "amount": 1,
+            "mealName": "Kolacja",
+            "mealPriority": 5,
+            "menuMealId": 2185884,
+            "menuMealName": "Pieczone falafele, puree z batata i marchewki oraz kalafior w przyprawach",
+            "thermo": "WARM",
+            "dietCaloriesMealId": 1442,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 504.0,
+                "calories": 453.0,
+                "fat": 17.93,
+                "protein": 16.08,
+                "carbohydrate": 54.6,
+                "dietaryFiber": 11.81,
+                "sugar": 15.93,
+                "salt": 1.7,
+                "saturatedFattyAcids": 14.6,
+                "caloriesText": "453 kcal / 1897 kJ"
+            },
+            "allergens": [
+                "Mleko",
+                "Gorczyca"
+            ],
+            "ingredients": [
+                {
+                    "name": "Batat kostka",
+                    "major": false
+                },
+                {
+                    "name": "Kalafior mrożony (nowe)",
+                    "major": false
+                },
+                {
+                    "name": "Falafele bonduelle (Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies)",
+                    "major": true
+                },
+                {
+                    "name": "Marchew",
+                    "major": false
+                },
+                {
+                    "name": "Śmietanka 31%",
+                    "major": false
+                },
+                {
+                    "name": "Szpinak baby",
+                    "major": false
+                },
+                {
+                    "name": "Masło extra",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                },
+                {
+                    "name": "Zioła prowansalskie",
+                    "major": false
+                },
+                {
+                    "name": "Curry",
+                    "major": false
+                },
+                {
+                    "name": "Kmin rzymski (kumin)",
+                    "major": false
+                },
+                {
+                    "name": "Papryka słodka (mielona, wędzona)",
+                    "major": false
+                },
+                {
+                    "name": "Kurkuma",
+                    "major": false
+                },
+                {
+                    "name": "Mielona papryka chili",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        }
+    ],
+    "possibleSideOrders": []
+}

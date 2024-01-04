@@ -1,0 +1,425 @@
+{
+    "menuVisible": "VISIBLE",
+    "deliveryMenuMeal": [
+        {
+            "deliveryMealId": 4148662,
+            "amount": 1,
+            "mealName": "Śniadanie",
+            "mealPriority": 1,
+            "menuMealId": 2189931,
+            "menuMealName": "Kiełbaska śniadaniowa wegetariańska podana z musztardą, pieczywem i sałatką z pomidora i ogórka kiszonego",
+            "thermo": "COLD_WARM",
+            "dietCaloriesMealId": 1422,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 404.0,
+                "calories": 552.0,
+                "fat": 24.25,
+                "protein": 29.39,
+                "carbohydrate": 48.92,
+                "dietaryFiber": 14.04,
+                "sugar": 8.02,
+                "salt": 4.41,
+                "saturatedFattyAcids": 7.66,
+                "caloriesText": "552 kcal / 2311 kJ"
+            },
+            "allergens": [
+                "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "Gorczyca"
+            ],
+            "ingredients": [
+                {
+                    "name": "Wegańska kiełbasa (Soja)",
+                    "major": true
+                },
+                {
+                    "name": "Chleb żytni razowy (nowy)",
+                    "major": false
+                },
+                {
+                    "name": "Pomidor",
+                    "major": false
+                },
+                {
+                    "name": "Ogórki kiszone",
+                    "major": false
+                },
+                {
+                    "name": "Cebula cięta",
+                    "major": false
+                },
+                {
+                    "name": "Musztarda",
+                    "major": false
+                },
+                {
+                    "name": "Margaryna Planta",
+                    "major": false
+                },
+                {
+                    "name": "Oliwa z oliwek",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Rozmaryn",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148660,
+            "amount": 1,
+            "mealName": "II śniadanie",
+            "mealPriority": 2,
+            "menuMealId": 2189932,
+            "menuMealName": "Ciasto Szarlotka z bezą",
+            "thermo": "COLD",
+            "dietCaloriesMealId": 1428,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 117.0,
+                "calories": 197.0,
+                "fat": 7.05,
+                "protein": 4.31,
+                "carbohydrate": 29.12,
+                "dietaryFiber": 1.23,
+                "sugar": 10.87,
+                "salt": 1.01,
+                "saturatedFattyAcids": 2.06,
+                "caloriesText": "197 kcal / 825 kJ"
+            },
+            "allergens": [
+                "Mleko",
+                "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "Jaja"
+            ],
+            "ingredients": [
+                {
+                    "name": "Woda",
+                    "major": false
+                },
+                {
+                    "name": "Jaja kurze (całe).",
+                    "major": false
+                },
+                {
+                    "name": "Kasza manna.",
+                    "major": false
+                },
+                {
+                    "name": "Cukier.",
+                    "major": false
+                },
+                {
+                    "name": "Mąka pszenna.",
+                    "major": false
+                },
+                {
+                    "name": "Margaryna Palma.",
+                    "major": false
+                },
+                {
+                    "name": "Proszek do pieczenia.",
+                    "major": false
+                },
+                {
+                    "name": "Jabłka",
+                    "major": false
+                },
+                {
+                    "name": "Mleko spożywcze (2% tł.).",
+                    "major": false
+                },
+                {
+                    "name": "Cynamon.",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148659,
+            "amount": 1,
+            "mealName": "Obiad",
+            "mealPriority": 3,
+            "menuMealId": 2189929,
+            "menuMealName": "Gnocchi w kremowym sosie z ciecierzycą, oliwkami i brokułami",
+            "thermo": "WARM",
+            "dietCaloriesMealId": 1434,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 619.0,
+                "calories": 571.0,
+                "fat": 19.44,
+                "protein": 16.11,
+                "carbohydrate": 82.37,
+                "dietaryFiber": 9.26,
+                "sugar": 3.16,
+                "salt": 2.17,
+                "saturatedFattyAcids": 1.29,
+                "caloriesText": "571 kcal / 2391 kJ"
+            },
+            "allergens": [
+                "Seler",
+                "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies"
+            ],
+            "ingredients": [
+                {
+                    "name": "Gnocchi ziemniaczane",
+                    "major": false
+                },
+                {
+                    "name": "Brokuł mrożony cięty",
+                    "major": false
+                },
+                {
+                    "name": "Bulion warzywny (domowy)",
+                    "major": false
+                },
+                {
+                    "name": "Ciecierzyca (odsączona z zalewy)",
+                    "major": false
+                },
+                {
+                    "name": "Cebula cięta",
+                    "major": false
+                },
+                {
+                    "name": "Flora Plant śmietanka roślinna 31%",
+                    "major": false
+                },
+                {
+                    "name": "Oliwki czarne",
+                    "major": false
+                },
+                {
+                    "name": "Oliwki zielone",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Szpinak baby",
+                    "major": false
+                },
+                {
+                    "name": "Czosnek",
+                    "major": false
+                },
+                {
+                    "name": "Imbir",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                },
+                {
+                    "name": "Kmin rzymski (kumin)",
+                    "major": false
+                },
+                {
+                    "name": "Pasta szafranowa (Mleko)",
+                    "major": true
+                },
+                {
+                    "name": "Kolendra (mielona)",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148661,
+            "amount": 1,
+            "mealName": "Podwieczorek",
+            "mealPriority": 4,
+            "menuMealId": 2189930,
+            "menuMealName": "Sałatka warzywna z vinegrette porzeczkowym",
+            "thermo": "COLD",
+            "dietCaloriesMealId": 1435,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 254.0,
+                "calories": 178.0,
+                "fat": 12.65,
+                "protein": 3.09,
+                "carbohydrate": 13.05,
+                "dietaryFiber": 3.82,
+                "sugar": 9.38,
+                "salt": 0.66,
+                "saturatedFattyAcids": 1.99,
+                "caloriesText": "178 kcal / 745 kJ"
+            },
+            "allergens": [
+                "Gorczyca"
+            ],
+            "ingredients": [
+                {
+                    "name": "Ogórek zielony (długi)",
+                    "major": false
+                },
+                {
+                    "name": "Papryka czerwona",
+                    "major": false
+                },
+                {
+                    "name": "Pomidor",
+                    "major": false
+                },
+                {
+                    "name": "Sałata lodowa",
+                    "major": false
+                },
+                {
+                    "name": "Oliwa z oliwek",
+                    "major": false
+                },
+                {
+                    "name": "Porzeczki czarne mrożone (nowe)",
+                    "major": false
+                },
+                {
+                    "name": "Woda",
+                    "major": false
+                },
+                {
+                    "name": "Cukier",
+                    "major": false
+                },
+                {
+                    "name": "Pestki dyni",
+                    "major": false
+                },
+                {
+                    "name": "Musztarda",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148663,
+            "amount": 1,
+            "mealName": "Kolacja",
+            "mealPriority": 5,
+            "menuMealId": 2189928,
+            "menuMealName": "Pieczone placki ziemniaczane z twarożkiem i ogórkiem PLACKI GOTOWE",
+            "thermo": "COLD_WARM",
+            "dietCaloriesMealId": 1442,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 560.0,
+                "calories": 488.0,
+                "fat": 16.74,
+                "protein": 25.48,
+                "carbohydrate": 58.49,
+                "dietaryFiber": 5.51,
+                "sugar": 9.06,
+                "salt": 1.48,
+                "saturatedFattyAcids": 4.7,
+                "caloriesText": "488 kcal / 2043 kJ"
+            },
+            "allergens": [
+                "Mleko",
+                "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "Jaja"
+            ],
+            "ingredients": [
+                {
+                    "name": "Ziemniaki wiórki",
+                    "major": false
+                },
+                {
+                    "name": "Ogórek zielony (długi)",
+                    "major": false
+                },
+                {
+                    "name": "Twaróg (president) 4%",
+                    "major": false
+                },
+                {
+                    "name": "Twaróg półtłusty",
+                    "major": false
+                },
+                {
+                    "name": "Jaja kurze (całe)",
+                    "major": false
+                },
+                {
+                    "name": "Cebula cięta",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Mąka pszenna (typ 500)",
+                    "major": false
+                },
+                {
+                    "name": "Szczypiorek",
+                    "major": false
+                },
+                {
+                    "name": "Roszponka",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        }
+    ],
+    "possibleSideOrders": []
+}

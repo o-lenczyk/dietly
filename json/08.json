@@ -1,0 +1,415 @@
+{
+    "menuVisible": "VISIBLE",
+    "deliveryMenuMeal": [
+        {
+            "deliveryMealId": 4148632,
+            "amount": 1,
+            "mealName": "Śniadanie",
+            "mealPriority": 1,
+            "menuMealId": 2189194,
+            "menuMealName": "Placuszki bananowe z musem truskawkowo- pomarańczowym",
+            "thermo": "COLD_WARM",
+            "dietCaloriesMealId": 1422,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 372.0,
+                "calories": 453.0,
+                "fat": 11.56,
+                "protein": 10.7,
+                "carbohydrate": 76.47,
+                "dietaryFiber": 6.79,
+                "sugar": 28.1,
+                "salt": 0.13,
+                "saturatedFattyAcids": 2.81,
+                "caloriesText": "453 kcal / 1897 kJ"
+            },
+            "allergens": [
+                "Soja",
+                "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "Orzechy"
+            ],
+            "ingredients": [
+                {
+                    "name": "Banan",
+                    "major": false
+                },
+                {
+                    "name": "Truskawki mrożone (nowe)",
+                    "major": false
+                },
+                {
+                    "name": "Mleko sojowe naturalne bio",
+                    "major": false
+                },
+                {
+                    "name": "Mąka pszenna (typ 500)",
+                    "major": false
+                },
+                {
+                    "name": "Cukier",
+                    "major": false
+                },
+                {
+                    "name": "Migdały w płatkach",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Wiórki kokosowe",
+                    "major": false
+                },
+                {
+                    "name": "Ekstrakt pomarańczowy",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148633,
+            "amount": 1,
+            "mealName": "II śniadanie",
+            "mealPriority": 2,
+            "menuMealId": 2189195,
+            "menuMealName": "Sałatka ziemniaczana z wędzonym tofu, cebulą i ogórkiem kiszonym",
+            "thermo": "COLD",
+            "dietCaloriesMealId": 1428,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 294.0,
+                "calories": 263.0,
+                "fat": 12.6,
+                "protein": 13.23,
+                "carbohydrate": 24.2,
+                "dietaryFiber": 2.58,
+                "sugar": 3.29,
+                "salt": 2.98,
+                "saturatedFattyAcids": 1.09,
+                "caloriesText": "263 kcal / 1101 kJ"
+            },
+            "allergens": [
+                "Soja",
+                "Gorczyca",
+                "Jaja"
+            ],
+            "ingredients": [
+                {
+                    "name": "Ziemniaki kostka",
+                    "major": false
+                },
+                {
+                    "name": "Ogórki kiszone",
+                    "major": false
+                },
+                {
+                    "name": "Tofu wędzone",
+                    "major": false
+                },
+                {
+                    "name": "Cebula cięta",
+                    "major": false
+                },
+                {
+                    "name": "Sos sojowy ciemny",
+                    "major": false
+                },
+                {
+                    "name": "Majonez (z olejem rzepakowym)",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Musztarda francuska (Gorczyca)",
+                    "major": true
+                },
+                {
+                    "name": "Rukola",
+                    "major": false
+                },
+                {
+                    "name": "Szczypiorek",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                },
+                {
+                    "name": "Papryka słodka (mielona, wędzona)",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148629,
+            "amount": 1,
+            "mealName": "Obiad",
+            "mealPriority": 3,
+            "menuMealId": 2189193,
+            "menuMealName": "Falafele buraczane w sosie pomidorowym z czosnkiem i suszonymi pomidorami podane z komosą i warzywami gotowanymi na parze",
+            "thermo": "WARM",
+            "dietCaloriesMealId": 1434,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 601.0,
+                "calories": 659.0,
+                "fat": 26.49,
+                "protein": 24.38,
+                "carbohydrate": 72.01,
+                "dietaryFiber": 22.15,
+                "sugar": 15.57,
+                "salt": 4.44,
+                "saturatedFattyAcids": 1.14,
+                "caloriesText": "659 kcal / 2759 kJ"
+            },
+            "allergens": [
+                ""
+            ],
+            "ingredients": [
+                {
+                    "name": "Garden Gourmet buraczane falafele",
+                    "major": false
+                },
+                {
+                    "name": "Passata pomidorowa (przecier)",
+                    "major": false
+                },
+                {
+                    "name": "Mieszanka Warzywna kalafior, brokuły, marchewka",
+                    "major": false
+                },
+                {
+                    "name": "Woda",
+                    "major": false
+                },
+                {
+                    "name": "Komosa ryżowa (Quinoa)",
+                    "major": false
+                },
+                {
+                    "name": "Cebula cięta",
+                    "major": false
+                },
+                {
+                    "name": "Suszone pomidory (w oleju z ziołami, odsączone)",
+                    "major": false
+                },
+                {
+                    "name": "Szpinak baby",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                },
+                {
+                    "name": "Czosnek",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Bazylia (świeża)",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Oregano (suszone)",
+                    "major": false
+                },
+                {
+                    "name": "Bazylia (suszona)",
+                    "major": false
+                },
+                {
+                    "name": "Sól himalajska",
+                    "major": false
+                },
+                {
+                    "name": "Sól morska",
+                    "major": false
+                },
+                {
+                    "name": "Cukier",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148631,
+            "amount": 1,
+            "mealName": "Podwieczorek",
+            "mealPriority": 4,
+            "menuMealId": 2189196,
+            "menuMealName": "Koktajl grejpfrut jabłko gruszka",
+            "thermo": "COLD",
+            "dietCaloriesMealId": 1435,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 445.0,
+                "calories": 204.0,
+                "fat": 0.86,
+                "protein": 1.35,
+                "carbohydrate": 47.47,
+                "dietaryFiber": 3.86,
+                "sugar": 45.22,
+                "salt": 0.0,
+                "saturatedFattyAcids": 0.0,
+                "caloriesText": "204 kcal / 854 kJ"
+            },
+            "allergens": [
+                ""
+            ],
+            "ingredients": [
+                {
+                    "name": "Sok jabłkowy",
+                    "major": false
+                },
+                {
+                    "name": "Jabłko",
+                    "major": false
+                },
+                {
+                    "name": "Gruszka",
+                    "major": false
+                },
+                {
+                    "name": "Sok grejpfrutowy",
+                    "major": false
+                },
+                {
+                    "name": "Brzoskwinia (w syropie) do koktajlu",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148630,
+            "amount": 1,
+            "mealName": "Kolacja",
+            "mealPriority": 5,
+            "menuMealId": 2189197,
+            "menuMealName": "Tosty z pieczarkami i serem podane z ketchupem oraz sałatką z papryki, ogórka i oliwek",
+            "thermo": "WARM",
+            "dietCaloriesMealId": 1442,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 415.0,
+                "calories": 421.0,
+                "fat": 16.63,
+                "protein": 20.01,
+                "carbohydrate": 47.19,
+                "dietaryFiber": 8.57,
+                "sugar": 11.93,
+                "salt": 3.34,
+                "saturatedFattyAcids": 6.17,
+                "caloriesText": "421 kcal / 1763 kJ"
+            },
+            "allergens": [
+                "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies"
+            ],
+            "ingredients": [
+                {
+                    "name": "Pieczarki cięte myte",
+                    "major": false
+                },
+                {
+                    "name": "Pieczywo tostowe pełnoziarniste",
+                    "major": false
+                },
+                {
+                    "name": "Papryka czerwona",
+                    "major": false
+                },
+                {
+                    "name": "Ketchup",
+                    "major": false
+                },
+                {
+                    "name": "Ogórek zielony (długi)",
+                    "major": false
+                },
+                {
+                    "name": "Cebula cięta",
+                    "major": false
+                },
+                {
+                    "name": "Ser mozzarella wiórki (Mleko)",
+                    "major": true
+                },
+                {
+                    "name": "Koncentrat pomidorowy (30%)",
+                    "major": false
+                },
+                {
+                    "name": "Oliwki zielone",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Oliwa z oliwek",
+                    "major": false
+                },
+                {
+                    "name": "Sok z cytryny",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                },
+                {
+                    "name": "Oregano (suszone)",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        }
+    ],
+    "possibleSideOrders": []
+}

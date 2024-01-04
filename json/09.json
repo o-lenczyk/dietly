@@ -1,0 +1,459 @@
+{
+    "menuVisible": "VISIBLE",
+    "deliveryMenuMeal": [
+        {
+            "deliveryMealId": 4148598,
+            "amount": 1,
+            "mealName": "Śniadanie",
+            "mealPriority": 1,
+            "menuMealId": 2189257,
+            "menuMealName": "Kasza manna z żurawiną i musem malinowym",
+            "thermo": "COLD_WARM",
+            "dietCaloriesMealId": 1422,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 518.0,
+                "calories": 435.0,
+                "fat": 6.46,
+                "protein": 13.77,
+                "carbohydrate": 80.7,
+                "dietaryFiber": 12.63,
+                "sugar": 40.24,
+                "salt": 0.22,
+                "saturatedFattyAcids": 3.9,
+                "caloriesText": "435 kcal / 1821 kJ"
+            },
+            "allergens": [
+                "Mleko",
+                "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies"
+            ],
+            "ingredients": [
+                {
+                    "name": "Mleko spożywcze (1.5 % tł.)",
+                    "major": false
+                },
+                {
+                    "name": "Maliny mrożone (nowe)",
+                    "major": false
+                },
+                {
+                    "name": "Woda do kaszy/ryżu/makaronu",
+                    "major": false
+                },
+                {
+                    "name": "Kasza manna",
+                    "major": false
+                },
+                {
+                    "name": "Żurawina suszona",
+                    "major": false
+                },
+                {
+                    "name": "Cukier",
+                    "major": false
+                },
+                {
+                    "name": "Wiórki kokosowe",
+                    "major": false
+                },
+                {
+                    "name": "Skrobia ziemniaczana",
+                    "major": false
+                },
+                {
+                    "name": "Cynamon",
+                    "major": false
+                },
+                {
+                    "name": "Ekstrakt waniliowy (pasta)",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148594,
+            "amount": 1,
+            "mealName": "II śniadanie",
+            "mealPriority": 2,
+            "menuMealId": 2189254,
+            "menuMealName": "Sałatka owocowa (pomarańcza, grejpfrut, jabłko, gruszka)",
+            "thermo": "COLD",
+            "dietCaloriesMealId": 1428,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 300.0,
+                "calories": 131.0,
+                "fat": 0.7,
+                "protein": 1.76,
+                "carbohydrate": 29.04,
+                "dietaryFiber": 5.28,
+                "sugar": 26.58,
+                "salt": 0.0,
+                "saturatedFattyAcids": 0.03,
+                "caloriesText": "131 kcal / 548 kJ"
+            },
+            "allergens": [
+                ""
+            ],
+            "ingredients": [
+                {
+                    "name": "Pomarańcza filet",
+                    "major": false
+                },
+                {
+                    "name": "Jabłko",
+                    "major": false
+                },
+                {
+                    "name": "Gruszka",
+                    "major": false
+                },
+                {
+                    "name": "Grejpfrut filet",
+                    "major": false
+                },
+                {
+                    "name": "Sok pomarańczowy",
+                    "major": false
+                },
+                {
+                    "name": "Sok z cytryny",
+                    "major": false
+                },
+                {
+                    "name": "Mięta (świeża)",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148597,
+            "amount": 1,
+            "mealName": "Obiad",
+            "mealPriority": 3,
+            "menuMealId": 2189253,
+            "menuMealName": "Mac& cheese z brokułem",
+            "thermo": "WARM",
+            "dietCaloriesMealId": 1434,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 462.0,
+                "calories": 677.0,
+                "fat": 25.08,
+                "protein": 33.56,
+                "carbohydrate": 79.14,
+                "dietaryFiber": 7.07,
+                "sugar": 8.37,
+                "salt": 2.03,
+                "saturatedFattyAcids": 13.69,
+                "caloriesText": "677 kcal / 2834 kJ"
+            },
+            "allergens": [
+                "Mleko",
+                "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "Jaja"
+            ],
+            "ingredients": [
+                {
+                    "name": "Brokuł mrożony cięty",
+                    "major": false
+                },
+                {
+                    "name": "Mleko spożywcze (1.5 % tł.)",
+                    "major": false
+                },
+                {
+                    "name": "Makaron penne",
+                    "major": false
+                },
+                {
+                    "name": "Szpinak baby",
+                    "major": false
+                },
+                {
+                    "name": "Por mrożony",
+                    "major": false
+                },
+                {
+                    "name": "Śmietanka 31%",
+                    "major": false
+                },
+                {
+                    "name": "Jaja kurze (całe)",
+                    "major": false
+                },
+                {
+                    "name": "Ser gouda (tłusty)",
+                    "major": false
+                },
+                {
+                    "name": "Ser Grana Padano tarty",
+                    "major": false
+                },
+                {
+                    "name": "Mąka pszenna (typ 500)",
+                    "major": false
+                },
+                {
+                    "name": "Cebula cięta",
+                    "major": false
+                },
+                {
+                    "name": "Czosnek",
+                    "major": false
+                },
+                {
+                    "name": "Masło extra",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                },
+                {
+                    "name": "Tymianek suszony",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148596,
+            "amount": 1,
+            "mealName": "Podwieczorek",
+            "mealPriority": 4,
+            "menuMealId": 2189255,
+            "menuMealName": "Pieczone buraki z czosnkiem i cebulą w marynacie ",
+            "thermo": "COLD_WARM",
+            "dietCaloriesMealId": 1435,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 275.0,
+                "calories": 318.0,
+                "fat": 19.48,
+                "protein": 12.43,
+                "carbohydrate": 23.33,
+                "dietaryFiber": 6.62,
+                "sugar": 17.72,
+                "salt": 0.77,
+                "saturatedFattyAcids": 7.03,
+                "caloriesText": "318 kcal / 1331 kJ"
+            },
+            "allergens": [
+                "Mleko"
+            ],
+            "ingredients": [
+                {
+                    "name": "Burak kostka ugotowany",
+                    "major": false
+                },
+                {
+                    "name": "Cebula",
+                    "major": false
+                },
+                {
+                    "name": "Ser kozi (twardy)",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Czosnek",
+                    "major": false
+                },
+                {
+                    "name": "Krem balsamiczny",
+                    "major": false
+                },
+                {
+                    "name": "Ocet balsamiczny",
+                    "major": false
+                },
+                {
+                    "name": "Oregano (suszone)",
+                    "major": false
+                },
+                {
+                    "name": "Bazylia (suszona)",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Rozmaryn",
+                    "major": false
+                },
+                {
+                    "name": "Sól himalajska",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148595,
+            "amount": 1,
+            "mealName": "Kolacja",
+            "mealPriority": 5,
+            "menuMealId": 2189256,
+            "menuMealName": "Chili sin carne z dynią podane z ryżem",
+            "thermo": "WARM",
+            "dietCaloriesMealId": 1442,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 552.0,
+                "calories": 445.0,
+                "fat": 6.87,
+                "protein": 16.62,
+                "carbohydrate": 75.8,
+                "dietaryFiber": 14.8,
+                "sugar": 6.73,
+                "salt": 0.84,
+                "saturatedFattyAcids": 0.89,
+                "caloriesText": "445 kcal / 1863 kJ"
+            },
+            "allergens": [
+                "Soja",
+                "Seler"
+            ],
+            "ingredients": [
+                {
+                    "name": "Woda",
+                    "major": false
+                },
+                {
+                    "name": "Dynia mrożona kostka",
+                    "major": false
+                },
+                {
+                    "name": "Passata pomidorowa (przecier)",
+                    "major": false
+                },
+                {
+                    "name": "Ryż brązowy",
+                    "major": false
+                },
+                {
+                    "name": "Fasola czerwona w zalewie (konserwowa)",
+                    "major": false
+                },
+                {
+                    "name": "Bulion warzywny (domowy)",
+                    "major": false
+                },
+                {
+                    "name": "Papryka czerwona paski mrożona",
+                    "major": false
+                },
+                {
+                    "name": "Kukurydza mrożona (nowe)",
+                    "major": false
+                },
+                {
+                    "name": "Marchew kostka",
+                    "major": false
+                },
+                {
+                    "name": "Soczewica czerwona",
+                    "major": false
+                },
+                {
+                    "name": "Cebula cięta",
+                    "major": false
+                },
+                {
+                    "name": "Cebula czerwona obrana",
+                    "major": false
+                },
+                {
+                    "name": "Seler naciowy",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Sos sojowy jasny",
+                    "major": false
+                },
+                {
+                    "name": "Rukola",
+                    "major": false
+                },
+                {
+                    "name": "Sól himalajska",
+                    "major": false
+                },
+                {
+                    "name": "Ocet balsamiczny",
+                    "major": false
+                },
+                {
+                    "name": "Cukier",
+                    "major": false
+                },
+                {
+                    "name": "Kmin rzymski (kumin)",
+                    "major": false
+                },
+                {
+                    "name": "Kolendra (świeża)",
+                    "major": false
+                },
+                {
+                    "name": "Mielona papryka chili",
+                    "major": false
+                },
+                {
+                    "name": "Mielona słodka papryka",
+                    "major": false
+                },
+                {
+                    "name": "Papryka słodka (mielona, wędzona)",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Cynamon",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        }
+    ],
+    "possibleSideOrders": []
+}

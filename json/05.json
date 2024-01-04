@@ -1,0 +1,419 @@
+{
+    "menuVisible": "VISIBLE",
+    "deliveryMenuMeal": [
+        {
+            "deliveryMealId": 4148612,
+            "amount": 1,
+            "mealName": "Śniadanie",
+            "mealPriority": 1,
+            "menuMealId": 2185915,
+            "menuMealName": "Pasta z ciecierzycy z kiszonym ogórkiem z pieczywem i świeżymi warzywami ",
+            "thermo": "COLD",
+            "dietCaloriesMealId": 1422,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 315.0,
+                "calories": 399.0,
+                "fat": 14.63,
+                "protein": 11.17,
+                "carbohydrate": 53.7,
+                "dietaryFiber": 10.27,
+                "sugar": 4.49,
+                "salt": 2.6,
+                "saturatedFattyAcids": 1.32,
+                "caloriesText": "399 kcal / 1671 kJ"
+            },
+            "allergens": [
+                "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies",
+                "Gorczyca",
+                "Jaja"
+            ],
+            "ingredients": [
+                {
+                    "name": "Chleb żytni razowy (nowy)",
+                    "major": false
+                },
+                {
+                    "name": "Ciecierzyca (odsączona z zalewy)",
+                    "major": false
+                },
+                {
+                    "name": "Papryka czerwona",
+                    "major": false
+                },
+                {
+                    "name": "Pomidor",
+                    "major": false
+                },
+                {
+                    "name": "Ogórki kiszone",
+                    "major": false
+                },
+                {
+                    "name": "Majonez (z olejem rzepakowym)",
+                    "major": false
+                },
+                {
+                    "name": "Cebula",
+                    "major": false
+                },
+                {
+                    "name": "Musztarda",
+                    "major": false
+                },
+                {
+                    "name": "Roszponka",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Cukier",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148609,
+            "amount": 1,
+            "mealName": "II śniadanie",
+            "mealPriority": 2,
+            "menuMealId": 2185913,
+            "menuMealName": "Sałatka owocowa z syropem daktylowym",
+            "thermo": "COLD",
+            "dietCaloriesMealId": 1428,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 308.0,
+                "calories": 249.0,
+                "fat": 0.77,
+                "protein": 2.34,
+                "carbohydrate": 58.07,
+                "dietaryFiber": 8.18,
+                "sugar": 55.12,
+                "salt": 0.11,
+                "saturatedFattyAcids": 0.11,
+                "caloriesText": "249 kcal / 1043 kJ"
+            },
+            "allergens": [
+                ""
+            ],
+            "ingredients": [
+                {
+                    "name": "Gruszka",
+                    "major": false
+                },
+                {
+                    "name": "Jabłko",
+                    "major": false
+                },
+                {
+                    "name": "Pomarańcza filet",
+                    "major": false
+                },
+                {
+                    "name": "Winogrona",
+                    "major": false
+                },
+                {
+                    "name": "Woda",
+                    "major": false
+                },
+                {
+                    "name": "Daktyle suszone",
+                    "major": false
+                },
+                {
+                    "name": "Sok pomarańczowy",
+                    "major": false
+                },
+                {
+                    "name": "Rodzynki",
+                    "major": false
+                },
+                {
+                    "name": "Sok z cytryny",
+                    "major": false
+                },
+                {
+                    "name": "Cynamon",
+                    "major": false
+                },
+                {
+                    "name": "Mięta (świeża)",
+                    "major": false
+                },
+                {
+                    "name": "Sól himalajska",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148610,
+            "amount": 1,
+            "mealName": "Obiad",
+            "mealPriority": 3,
+            "menuMealId": 2185914,
+            "menuMealName": "Gnocchi buraczane w kremowym sosie szpinakowym z brokulami i serem blue",
+            "thermo": "WARM",
+            "dietCaloriesMealId": 1434,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 650.0,
+                "calories": 655.0,
+                "fat": 26.93,
+                "protein": 25.51,
+                "carbohydrate": 76.89,
+                "dietaryFiber": 7.55,
+                "sugar": 18.54,
+                "salt": 2.93,
+                "saturatedFattyAcids": 14.39,
+                "caloriesText": "655 kcal / 2742 kJ"
+            },
+            "allergens": [
+                "Mleko",
+                "Seler",
+                "Zboża zawierające gluten, tj. pszenica, żyto, jęczmień, owies"
+            ],
+            "ingredients": [
+                {
+                    "name": "Brokuł mrożony cięty",
+                    "major": false
+                },
+                {
+                    "name": "Gnocchi z burakiem",
+                    "major": false
+                },
+                {
+                    "name": "Bulion warzywny (domowy)",
+                    "major": false
+                },
+                {
+                    "name": "Szpinak mrożony (nowe)",
+                    "major": false
+                },
+                {
+                    "name": "Śmietanka 31%",
+                    "major": false
+                },
+                {
+                    "name": "Ser blue Lazur",
+                    "major": false
+                },
+                {
+                    "name": "Cebula cięta",
+                    "major": false
+                },
+                {
+                    "name": "Skrobia ziemniaczana",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Natka pietruszki",
+                    "major": false
+                },
+                {
+                    "name": "Czosnek",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148611,
+            "amount": 1,
+            "mealName": "Podwieczorek",
+            "mealPriority": 4,
+            "menuMealId": 2185917,
+            "menuMealName": "Sałatka z serem scamorza i suszonymi pomidorami w sosie bazyliowym ",
+            "thermo": "COLD",
+            "dietCaloriesMealId": 1435,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 267.0,
+                "calories": 254.0,
+                "fat": 18.6,
+                "protein": 13.22,
+                "carbohydrate": 8.51,
+                "dietaryFiber": 3.91,
+                "sugar": 3.55,
+                "salt": 1.36,
+                "saturatedFattyAcids": 7.91,
+                "caloriesText": "254 kcal / 1063 kJ"
+            },
+            "allergens": [
+                ""
+            ],
+            "ingredients": [
+                {
+                    "name": "Ogórek zielony (długi)",
+                    "major": false
+                },
+                {
+                    "name": "Papryka czerwona",
+                    "major": false
+                },
+                {
+                    "name": "Kapusta pekińska szatkowana",
+                    "major": false
+                },
+                {
+                    "name": "Ser scamorza wędzony (Mleko)",
+                    "major": true
+                },
+                {
+                    "name": "Suszone pomidory (w oleju z ziołami, odsączone)",
+                    "major": false
+                },
+                {
+                    "name": "Pesto zielone (Jaja, Mleko, Orzechy)",
+                    "major": true
+                },
+                {
+                    "name": "Oregano (suszone)",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Sól morska",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        },
+        {
+            "deliveryMealId": 4148613,
+            "amount": 1,
+            "mealName": "Kolacja",
+            "mealPriority": 5,
+            "menuMealId": 2185916,
+            "menuMealName": "Wegetariański gulasz z fasoli z papryką i pomidorami z dodatkiem brązowego ryżu",
+            "thermo": "WARM",
+            "dietCaloriesMealId": 1442,
+            "dietCaloriesId": 296,
+            "nutrition": {
+                "weight": 532.0,
+                "calories": 451.0,
+                "fat": 7.78,
+                "protein": 18.43,
+                "carbohydrate": 76.09,
+                "dietaryFiber": 14.48,
+                "sugar": 7.55,
+                "salt": 2.81,
+                "saturatedFattyAcids": 1.05,
+                "caloriesText": "451 kcal / 1888 kJ"
+            },
+            "allergens": [
+                "Seler"
+            ],
+            "ingredients": [
+                {
+                    "name": "Fasola biała (konserwowa)",
+                    "major": false
+                },
+                {
+                    "name": "Peperonata",
+                    "major": false
+                },
+                {
+                    "name": "Woda",
+                    "major": false
+                },
+                {
+                    "name": "Papryka czerwona paski mrożona",
+                    "major": false
+                },
+                {
+                    "name": "Ryż brązowy",
+                    "major": false
+                },
+                {
+                    "name": "Bulion warzywny (domowy)",
+                    "major": false
+                },
+                {
+                    "name": "Cebula czerwona obrana",
+                    "major": false
+                },
+                {
+                    "name": "Czosnek",
+                    "major": false
+                },
+                {
+                    "name": "Olej rzepakowy",
+                    "major": false
+                },
+                {
+                    "name": "Natka pietruszki",
+                    "major": false
+                },
+                {
+                    "name": "Pieprz czarny mielony",
+                    "major": false
+                },
+                {
+                    "name": "Tymianek suszony",
+                    "major": false
+                },
+                {
+                    "name": "Mielona papryka chili",
+                    "major": false
+                },
+                {
+                    "name": "Sól (biała)",
+                    "major": false
+                },
+                {
+                    "name": "Sól himalajska",
+                    "major": false
+                }
+            ],
+            "review": null,
+            "addedByUser": false,
+            "switchable": false,
+            "mealAddingSource": false,
+            "reviewSummary": null
+        }
+    ],
+    "possibleSideOrders": []
+}
