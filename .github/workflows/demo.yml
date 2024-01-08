@@ -9,7 +9,9 @@ env:
 
 name: GitHub Actions Demo
 run-name: ${{ github.actor }} is scraping dietly
-on: [push]
+on:
+  schedule:
+    - cron: '11 5 */2 * *'
 jobs:
   scrap-dietly:
     runs-on: ubuntu-latest
