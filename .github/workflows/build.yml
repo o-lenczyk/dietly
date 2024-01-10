@@ -2,13 +2,27 @@ env:
   db_name: ${{vars.DB_NAME}}
 
 name: build dietly-ui
-run-name: ${{ github.actor }} is build dietly-ui
+run-name: ${{ github.actor }} is building dietly-ui
 on: [push]
 jobs:
-  scrap-dietly:
+  build-and-push:
     runs-on: ubuntu-latest
     environment: dev
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
-      - run: docker build -t dietly:0.3 . 
+      - name: build docker image
+        run: docker build -t europe-central2-docker.pkg.dev/gcp101713-michalpiasecki/dietly/ui:${{ github.sha }} . 
+      - name: install gcloud
+        run: curl https://sdk.cloud.google.com | bash -s -- --disable-prompts
+      - name: set credentials
+        run: echo "${{secrets.GOOGLE_APPLICATION_CREDENTIALS}}" | base64 -d > key.json
+      - name: activate service account
+        run: gcloud auth activate-service-account --key-file key.json
+      - name: list authorized accounts
+        run: gcloud auth list
+      - name: configure docker
+        run: gcloud auth configure-docker europe-central2-docker.pkg.dev
+      - name: push docker image
+        run: docker push europe-central2-docker.pkg.dev/gcp101713-michalpiasecki/dietly/ui:${{ github.sha }}
+
