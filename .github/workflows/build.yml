@@ -1,0 +1,14 @@
+env:
+  db_name: ${{vars.DB_NAME}}
+
+name: build dietly-ui
+run-name: ${{ github.actor }} is build dietly-ui
+on: [push]
+jobs:
+  scrap-dietly:
+    runs-on: ubuntu-latest
+    environment: dev
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - run: docker build -t dietly:0.3 . 
