@@ -1,0 +1,38 @@
+<style>
+    table, th, td {
+      border: 1px solid black;
+    }
+    </style>
+    
+<h1>{{ meal.mealname }} -  {{ meal.menumealname }}</h1>
+<ul>
+{% for x in ingredients %}
+    <li>{{ x }}</li>
+{% endfor %}
+</ul>
+
+<table>
+    <tr>
+      <th>weight</th>
+      <th>calories</th>
+      <th>fat</th>
+      <th>protein</th>
+      <th>carbohydrate</th>
+      <th>dietaryfiber</th>
+      <th>sugar</th>
+      <th>salt</th>
+      <th>saturatedfattyacids</th>
+    </tr>
+    <tr>
+      <th> {{ meal.weight }}</th>
+      <th> {{ meal.calories }}</th>
+      <th> {{ meal.fat }}</th>
+      <th> {{ meal.protein }}</th>
+      <th> {{ meal.carbohydrate }}</th>
+      <th> {{ meal.dietaryfiber }}</th>
+      <th> {{ meal.sugar }}</th>
+      <th> {{ meal.salt }}</th>
+      <th> {{ meal.saturatedfattyacids }}</th>
+    </tr> 
+    </table>
+    

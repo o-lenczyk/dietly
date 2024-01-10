@@ -1,0 +1,35 @@
+<style>
+    table, th, td {
+      border: 1px solid black;
+    }
+    </style>
+    {% if previousWeek > 0%}
+<a href="{% url 'week' previousWeek %}"><<</a>
+{% endif %} tydzień {{ week }} <a href="{% url 'week' nextWeek %}">>></a>
+{% if latest_meals_list %}
+    <ul>
+    {% for meal in latest_meals_list %}
+    <li>{{ meal.date }} <a href="{% url 'detail' meal.id %}">{{ meal.menumealname }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>Brak menu</p>
+{% endif %}
+
+<br>
+<br>
+
+<table>
+    <tr><td>calories</td><td>{{ calories }}kcal</td></tr>
+    <tr><td>fat</td><td>{{ fat }}g</td></tr>
+    <tr><td>protein</td><td>{{ protein }}g</td></tr>
+    <tr><td>carbohydrate</td><td>{{ carbohydrate }}g</td></tr>
+    <tr><td>dietaryfiber</td><td>{{ dietaryfiber }}g</td></tr>
+    <tr><td>sugar</td><td>{{ sugar }}g</td></tr>
+    <tr><td>salt</td><td>{{ salt }}g</td></tr>
+    <tr><td>saturatedfattyacids</td><td>{{ saturatedfattyacids }}g</td></tr>
+    <tr><td>%fat</td><td>{{ pfat }}%</td></tr>
+    <tr><td>%carbohydrate</td><td>{{ pcarbohydrate }}%</td></tr>
+    <tr><td>%protein</td><td>{{ pprotein }}%</td></tr>
+</table>
+    
