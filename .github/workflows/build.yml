@@ -28,6 +28,7 @@ jobs:
       - name: retag image
         if: startsWith( github.ref, 'refs/tags/')
         run: docker tag europe-central2-docker.pkg.dev/gcp101713-michalpiasecki/dietly/ui:${{ github.sha }} europe-central2-docker.pkg.dev/gcp101713-michalpiasecki/dietly/ui:$(awk -F"/" '{print $3}' <<< ${{ github.ref }})
+      - run: docker images
   deploy:
     runs-on: ubuntu-latest
     environment: dev
