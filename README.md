@@ -1,3 +1,5 @@
+## status: ![build](https://github.com/o-lenczyk/dietly/actions/workflows/build.yml/badge.svg) ![build](https://github.com/o-lenczyk/dietly/actions/workflows/scrap.yml/badge.svg)
+
 ## scrap.py
 - scrap menu from dietly.pl
 - push it to DB
