@@ -25,7 +25,9 @@ jobs:
         run: gcloud auth configure-docker europe-central2-docker.pkg.dev
       - name: push docker image
         run: docker push europe-central2-docker.pkg.dev/gcp101713-michalpiasecki/dietly/ui:${{ github.sha }}
-      - run: echo "tag ${{ github.ref }}"
+      - name: retag image
+        if: startsWith( github.ref, 'refs/tags/')
+        run: docker tag europe-central2-docker.pkg.dev/gcp101713-michalpiasecki/dietly/ui:${{ github.sha }} europe-central2-docker.pkg.dev/gcp101713-michalpiasecki/dietly/ui:$(awk -F"/" '{print $3}' <<< ${{ github.ref }})
   deploy:
     runs-on: ubuntu-latest
     environment: dev
