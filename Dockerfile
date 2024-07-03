@@ -1,4 +1,4 @@
-FROM python:3.10.13-slim-bookworm
+FROM python:3.12.4-slim-bookworm
 
 ADD dietly /dietly
 ADD keys/client-cert.pem keys/client-cert.pem
