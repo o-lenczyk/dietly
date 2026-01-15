@@ -11,7 +11,7 @@ certifi==2023.11.17
 cffi==1.16.0
 charset-normalizer==3.3.2
 cloud-sql-python-connector==1.5.0
-cryptography==41.0.7
+cryptography==42.0.8
 exceptiongroup==1.2.0
 frozenlist==1.4.1
 google-api==0.1.12
@@ -31,7 +31,7 @@ h2==4.1.0
 hpack==4.0.0
 httplib2==0.22.0
 hyperframe==6.0.1
-idna==3.6
+idna==3.7
 iniconfig==2.0.0
 kaitaistruct==0.10
 multidict==6.0.4
@@ -48,7 +48,7 @@ pyparsing==3.1.1
 PySocks==1.7.1
 pytest==7.4.4
 python-dateutil==2.8.2
-requests==2.31.0
+requests==2.32.2
 rsa==4.9
 scramp==1.4.4
 selenium==4.16.0
@@ -62,7 +62,7 @@ trio==0.23.2
 trio-websocket==0.11.1
 typing_extensions==4.9.0
 uritemplate==4.1.1
-urllib3==2.1.0
+urllib3==2.2.2
 wsproto==1.2.0
 yarl==1.9.4
 zstandard==0.22.0
